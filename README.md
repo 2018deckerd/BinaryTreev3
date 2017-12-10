@@ -1,2 +1,2 @@
-# BinaryTreev3
-Updated version of Binary tree that implements the deleting of nodes 
+# binary-tree-starter
+repo for binary tree starter code
